@@ -1,0 +1,32 @@
+---
+title: "Text Analysis - RRR"
+author: "Naren Prakash"
+format: html
+---
+
+```{r}
+library(tidyverse)
+library(tidytext)
+library(quanteda)
+library(tm)
+```
+```{r}
+docs <- read_csv("paper_doc_data.csv")
+corp <- corpus(docs$summary)
+docnames(corp) <- docs$title
+summary(corp)
+```
+```{r}
+library(topicmodels)
+dtm <- docs %>%
+  unnest_tokens(word, summary) %>%
+  anti_join(stop_words) %>%
+  count(title, word, sort = TRUE) %>%
+  cast_dtm(title, word, n)
+dtm <- removeSparseTerms(dtm, 0.99)
+
+r_lda <- LDA(dtm, k = 10, control = list(seed = 0))
+r_lda
+```
+
+
