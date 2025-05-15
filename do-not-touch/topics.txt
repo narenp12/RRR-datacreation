@@ -1,0 +1,35 @@
+-1: Deep Learning and Attention Mechanisms
+0: GANs and CNNs
+1: Dialogue Understanding and Semantic Analysis
+2: Bayesian and Probabilistic Models
+3: Optimization and Reinforcement Learning Algorithms
+4: Facial Recognition and Biometric Systems
+5: Neural Networks (composition)
+6: Sentiment and Emotion Analysis on Social Media
+7: Bias in AI
+8: Image Alteration (Deblurring, lighting correction, etc.)
+9: Art Generation
+10: Medical Imaging
+11: GPU and Hardware Benchmarking
+12: Speech Recognition and Audio Processing
+13: AI in Clinical and Healthcare Applications
+14: Ethics of AI and Machine Learning
+15: Cognitive Models and Reasoning
+16: Privacy and Security in AI
+17: Uncertainty and Estimation
+18: Cardiac Imaging and Disease Detection
+19: Advertisements
+20: AI capabilities and limitations (agents, hallicination, etc.)
+21: Spatiotemporal Modeling with SAR and Hawkes Processes
+22: Imputation and Missingness of Data
+23: Procedural Models in Food and Obesity Studies
+24: Process Fault Detection and Diagnosis
+25: Algorithms and Systems for Immune Response
+26: Computer Vision and Image Segmentation
+27: Copula Models for Multivariate Dependence
+28: Hacking and Cybersecurity
+29: Numerical Methods and Analysis
+30: SVM-Based Classification for Remote Sensing Imagery
+31: Authorship Attribution and Document Overlap Detection
+32: Tabular Data Understanding and Table-Based Reasoning
+33: Geometrical and spacial modeling and prediction (3D)

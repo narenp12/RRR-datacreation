@@ -3,4 +3,8 @@
 .pixi
 *.egg-info
 .DS_Store
-phraseadded.csv
+bertopic_topic_top_words.csv
+do-not-touch/bertopic_topic_info.csv
+do-not-touch/docs_with_bert_topics.csv
+docs_with_bert_topics.csv
+phrase_added.csv
