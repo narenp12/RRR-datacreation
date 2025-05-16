@@ -32,4 +32,4 @@
 30: SVM-Based Classification for Remote Sensing Imagery
 31: Authorship Attribution and Document Overlap Detection
 32: Tabular Data Understanding and Table-Based Reasoning
-33: Geometrical and spacial modeling and prediction (3D)
+33: Geometrical and spatial modeling and prediction (3D)
