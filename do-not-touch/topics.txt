@@ -1,35 +1,34 @@
--1: Deep Learning and Attention Mechanisms
-0: GANs and CNNs
-1: Dialogue Understanding and Semantic Analysis
-2: Bayesian and Probabilistic Models
-3: Optimization and Reinforcement Learning Algorithms
-4: Facial Recognition and Biometric Systems
-5: Neural Networks (composition)
-6: Sentiment and Emotion Analysis on Social Media
-7: Bias in AI
-8: Image Alteration (Deblurring, lighting correction, etc.)
-9: Art Generation
-10: Medical Imaging
-11: GPU and Hardware Benchmarking
-12: Speech Recognition and Audio Processing
-13: AI in Clinical and Healthcare Applications
-14: Ethics of AI and Machine Learning
-15: Cognitive Models and Reasoning
-16: Privacy and Security in AI
-17: Uncertainty and Estimation
-18: Cardiac Imaging and Disease Detection
-19: Advertisements
-20: AI capabilities and limitations (agents, hallicination, etc.)
-21: Spatiotemporal Modeling with SAR and Hawkes Processes
-22: Imputation and Missingness of Data
-23: Procedural Models in Food and Obesity Studies
-24: Process Fault Detection and Diagnosis
-25: Algorithms and Systems for Immune Response
-26: Computer Vision and Image Segmentation
-27: Copula Models for Multivariate Dependence
-28: Hacking and Cybersecurity
-29: Numerical Methods and Analysis
-30: SVM-Based Classification for Remote Sensing Imagery
-31: Authorship Attribution and Document Overlap Detection
-32: Tabular Data Understanding and Table-Based Reasoning
-33: Geometrical and spatial modeling and prediction (3D)
+0: Adversarial Robustness in Convolutional Networks
+1: Dialogue Systems and Machine Translation
+2: Sparse Modeling and Gaussian Classification
+3: Reinforcement Learning and Bandit Algorithms
+4: Optimization Algorithms in Machine Learning
+5: Causal Inference and Treatment Effects
+6: Bayesian Inference and Probabilistic Models
+7: Graph Neural Networks
+8: Facial Recognition and Biometrics
+9: Pedestrian Tracking and Trajectory Estimation
+10: Emotion Recognition in Social Media
+11: Computational Neuroscience
+12: Handwritten Character Recognition
+13: Image Enhancement and Deblurring
+14: Sketch-Based Image Retrieval
+15: Clinical and Biomedical AI
+16: Privacy-Preserving Machine Learning
+17: Conceptual Analogy and Reasoning
+18: Pose Estimation and Fashion Analysis
+19: Social Attribute Inference
+20: Legal Document Analysis
+21: Stylometry and Music Generation
+22: Deep Learning for Image Segmentation
+23: Auction Theory and Online Advertising
+24: Quantile Regression and Copula Models
+25: Language Model Hallucination and Control
+26: Hardware-Aware Model Optimization
+27: Computer Vision Applications
+28: Pandemic Modeling and Epidemiology
+29: Stochastic Processes in AI
+30: Security and Adversarial Attacks
+31: Simulation-Based Learning Environments
+32: Fuzzy Logic and Set Theory
+33: Tomography and Medical Imaging
